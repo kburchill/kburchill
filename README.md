@@ -16,24 +16,13 @@
 > <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
 
-
-### What do I look like on GitHub?
-
 ![Kent's GitHub states](https://github-readme-stats.vercel.app/api?username=kburchill&show_icons=true&theme=tokyonight)
 
-
-### Who am I?
-Currently living in the mountains of Colorado 
-
-Actively searching for a team environment building something challenging
-
-Ability to learn languages incredibly fast
 
 ### What about specialized applications in the industry?
 > - `Docker`
 > - `Postman`
 > - `PostBird`
-> - `Vs-Code`
 > - `Sketch`
 > - `Slack`
 
