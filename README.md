@@ -1,7 +1,7 @@
 ### Hi there! I'm Kent Burchill. I love everything about Software Engineering, and know quite a bit about Chemistry.
 
 
-###What am I strong with?###
+### What am I strong with?###
 > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 > <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
